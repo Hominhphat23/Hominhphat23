@@ -65,3 +65,21 @@ _Originally posted by @cloudflare-pages in https://github.com/cloudflare/cloudfl
   </dict>
 </array>
 src/content/changelogs/stream.yaml
+## Deploying cloudflare-docs with &nbsp;<a href="https://pages.dev"><img alt="Cloudflare Pages" src="https://user-images.githubusercontent.com/23264/106598434-9e719e00-654f-11eb-9e59-6167043cfa01.png" width="16"></a> &nbsp;Cloudflare Pages
+
+<table><tr><td><strong>Latest commit:</strong> </td><td>
+<code>d99e88a</code>
+</td></tr>
+<tr><td><strong>Status:</strong></td><td>&nbsp;✅&nbsp; Deploy successful!</td></tr>
+<tr><td><strong>Preview URL:</strong></td><td>
+<a href='https://116bbe31.cloudflare-docs-7ou.pages.dev'>https://116bbe31.cloudflare-docs-7ou.pages.dev</a>
+</td></tr>
+<tr><td><strong>Branch Preview URL:</strong></td><td>
+<a href='https://elithrar-patch-20.cloudflare-docs-7ou.pages.dev'>https://elithrar-patch-20.cloudflare-docs-7ou.pages.dev</a>
+</td></tr>
+</table>
+
+[View logs](https://dash.cloudflare.com/?to=/:account/pages/view/cloudflare-docs/116bbe31-2e38-4be0-ba8c-22101bb11ae6)
+
+
+_Originally posted by @cloudflare-pages in https://github.com/cloudflare/cloudflare-docs/pull/15685#issuecomment-2236588356_
