@@ -38,3 +38,29 @@ F.@@## Deploying cloudflare-docs with &nbsp;<a href="https://pages.dev"><img alt
 
 
 _Originally posted by @cloudflare-pages in https://github.com/cloudflare/cloudflare-docs/pull/15685#issuecomment-2236588356_
+<array>
+  <dict>
+    <key>organization</key>
+    <string>mycompany</string>
+    <key>display_name</key>
+    <string>Production environment</string>
+  </dict>
+  <dict>
+    <key>organization</key>
+    <string>mycompany</string>
+    <key>override_api_endpoint</key>
+    <string>203.0.113.0</string>
+    <key>override_doh_endpoint</key>
+    <string>203.0.113.0</string>
+    <key>override_warp_endpoint</key>
+    <string>203.0.113.0:2408</string>
+    <key>display_name</key>
+    <string>Cloudflare China network</string>
+  </dict>
+  <dict>
+    <key>organization</key>
+    <string>test-org</string>
+    <key>display_name</key>
+    <string>Test environment</string>
+  </dict>
+</array>
