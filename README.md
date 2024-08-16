@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 </td></tr>
 <tr><td><strong>Branch Preview URL:</strong></td><td
 e132cd6715f14dd6cf13631c060b3eb0b8f800ca
+cloudflare/cloudflare-docs] workers: fix typo (PR #16220)
