@@ -83,3 +83,7 @@ src/content/changelogs/stream.yaml
 
 
 _Originally posted by @cloudflare-pages in https://github.com/cloudflare/cloudflare-docs/pull/15685#issuecomment-2236588356_
+[View logs](https://dash.cloudflare.com/?to=/:account/pages/view/cloudflare-docs/116bbe31-2e38-4be0-ba8c-22101bb11ae6)
+
+
+_Originally posted by @cloudflare-pages in https://github.com/cloudflare/cloudflare-docs/pull/15685#issuecomment-2236588356_
