@@ -144,3 +144,26 @@ gitalk.render('gitalk-container');
 https://www.ruanyifeng.com/blog/2019/04/github-oauth.html
 
 ## 开源
+name = "event-notification-writer"
+main = "src/index.ts"
+compatibility_date = "2024-03-29"
+compatibility_flags = ["nodejs_compat"]
+
+[[queues.consumers]]
+queue = "example-event-notification-queue"
+max_batch_size = 100
+max_batch_timeout = 5
+
+[[r2_buckets]]
+binding = "LOG_SINK"
+bucket_name = "example-log-sink-bucket
+**Files with changes (up to 15)**
+
+| Original Link | Updated Link |
+| --- | --- |
+| [https://developers.cloudflare.com/r2/buckets/event-notifications/](https://developers.cloudflare.com/r2/buckets/event-notifications/) | [https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/r2/buckets/event-notifications/](https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/r2/buckets/event-notifications/) |
+| [https://developers.cloudflare.com/r2/examples/upload-logs-event-notifications/](https://developers.cloudflare.com/r2/examples/upload-logs-event-notifications/) | [https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/r2/examples/upload-logs-event-notifications/](https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/r2/examples/upload-logs-event-notifications/) |
+| [https://developers.cloudflare.com/workers/wrangler/commands/](https://developers.cloudflare.com/workers/wrangler/commands/) | [https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/workers/wrangler/commands/](https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/workers/wrangler/commands/) |
+| [https://developers.cloudflare.com/queues/tutorials/upload-logs-event-notifications/](https://developers.cloudflare.com/queues/tutorials/upload-logs-event-notifications/) | [https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/queues/tutorials/upload-logs-event-notifications/](https://pjones-r2-event-notification.cloudflare-docs-7ou.pages.dev/queues/tutorials/upload-logs-event-notifications/) |
+
+_Originally posted by @github-actions in https://github.com/cloudflare/cloudflare-docs/pull/13730#issuecomment-2030991425_
