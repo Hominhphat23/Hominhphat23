@@ -1,3 +1,4 @@
+
 A- 👋 Hi, I’m @Hominhphat23
 B- 🌱 I’m currently learning ...
 BB- 💞️ I’m looking to collaborate on ...
@@ -292,3 +293,27 @@ Original Link	Updated Link
 https://developers.cloudflare.com/support/third-party-software/others/configuring-an-amazon-web-services-static-site-to-use-cloudflare/	https://ale-cf-reference-to-cloud-co.cloudflare-docs-7ou.pages.dev/support/third-party-software/others/configuring-an-amazon-web-services-static-site-to-use-cloudflare/
 Originally posted by @github-actions in #16223 (comment)
 https://ale-cf-reference-to-cloud-co.cloudflare-docs-7ou.pages.dev/support/third-party-software/others/configuring-an-amazon-web-services-static-site-to-use-cloudflare/
+manifest versionCode="454415791" compileSdkVersion="35" compileSdkVersionCodename="15" package="com.facebook.katana" split="s_papayatorch_torchedlooper" platformBuildVersionCode="35" platformBuildVersionName="15">
+<module onDemand="true" title="@string/__external__voltron_s_papayatorch_torchedlooper_title">
+<fusing include="false"/>
+</module>
+<application hasCode="false" debuggable="false" allowBackup="false"/>
+</manifest>
+manifest versionCode="12501600" splitTypes="base__density" package="com.lemon.lvoverseas" split="config.xxhdpi">
+<application hasCode="false">
+<meta-data name="com.android.vending.derived.apk.id" value="3"/>
+</application>
+</manifest>
+manifest versionCode="4005" package="com.cloudflare.onedotonedotonedotone" split="config.xxhdpi" splitTypes="base__density">
+<application hasCode="false">
+<meta-data name="com.android.vending.derived.apk.id" value="4"/>
+</application>
+</manifest>
+You must have Hugo installed on your system and available in your $PATH as a global binary. Most operating systems are supported – follow the relevant installation instructions for your operating system to get started.
+
+Important: This project is built with version 0.125.6+extended and is the minimum required version. You may (probably) use a newer version of Hugo, but will be subject to any Hugo changes.
+
+You must also have a recent version of Node.js (20+) installed. You may use Volta, a Node version manager, to install the latest version of Node and npm, which is a package manager that is included with node's installation.
+
+$ curl https://get.volta.sh | bash
+$ volta install node
