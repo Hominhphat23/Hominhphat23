@@ -187,3 +187,91 @@ Please note that we may use AI tools to help us review technical documentation, 
 > - [x] The [documentation style guide](https://developers.cloudflare.com/style-guide/) has been adhered to.
 > - [x] If a larger change - such as adding a new page- an issue has been opened in relation to any incorrect or out of date information that this PR fixes.
 > - [x] Files which have changed name or location have been allocated [redirects](https://developers.cloudflare.com/pages/configuration/redirects/#per-file).
+Fork the repository and create your branch from master
+If you've added code that should be tested, add tests!
+If you've changed APIs, update the documentation.
+Ensure the test suite passes (npm test).
+Make sure your code lints (npm run lint).
+Commit your changes (git commit) Commit Message Format Reference
+location.href
+clientID String
+
+Required. GitHub Application Client ID.
+
+clientSecret String
+
+Required. GitHub Application Client Secret.
+
+repo String
+
+Required. GitHub repository.
+
+owner String
+
+Required. GitHub repository owner. Can be personal user or organization.
+
+admin Array
+
+Required. GitHub repository owner and collaborators. (Users who having write access to this repository)
+
+id String
+
+Default: location.href.
+
+The unique id of the page. Length must less than 50.
+
+Note: You can use regex to extract certain path of the URL as the id. E.g., location.href.match('/(?<=posts/)(.*)(?=/)/')[1]
+
+number Number
+
+Default: -1.
+
+The issue ID of the page, if the number attribute is not defined, issue will be located using id.
+
+labels Array
+
+Default: ['Gitalk'].
+
+GitHub issue labels.
+
+title String
+
+Default: document.title.
+
+GitHub issue title.
+
+body String
+
+Default: location.href + header.meta[description].
+
+GitHub issue body.
+
+language String
+
+Default: navigator.language || navigator.userLanguage.
+
+Localization language key, support [en, zh-CN, zh-TW, es-ES, fr, ru, de, pl, ko, fa, ja].
+
+perPage Number
+
+Default: 10.
+
+Pagination size, with maximum 100.
+
+distractionFreeMode Boolean
+
+Default: false.
+
+Facebook-like distraction free mode.
+
+pagerDirection String
+
+Default: 'last'
+
+Comment sorting direction, available values are last and first.
+  {
+    staggerDelayBy: 150,
+    appearAnimation: 'accordionVertical',
+    enterAnimation: 'accordionVertical',
+    leaveAnimation: 'accordionVertical',
+  }
