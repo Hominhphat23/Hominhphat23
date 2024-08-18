@@ -329,3 +329,13 @@ Use the AWS management console to Create an S3 Bucket. For the Bucket name, use 
 Next, you need to redirect requests from this bucket’s URL to the subdomain bucket URL you created. Follow the steps in Redirect Requests to an S3 Bucket Hosted Website to Another Host. For Target Bucket or Domain, enter the same bucket name that you used for the subdomain bucket in Task 1; for example,
 family and said she
 https://www.facebook.com/profile.php?id=61561310788762&mibextid=ZbWKwL
+Feature	Support	Example	Notes
+Redirects (301, 302, 303, 307, 308)	Yes	/home / 301	302 is used as the default status code.
+Rewrites (other status codes)	No	/blog/* /blog/404.html 404	
+Splats	Yes	/blog/* /posts/:splat	Refer to Splats.
+Placeholders	Yes	/blog/:year/:month/:date/:slug /news/:year/:month/:date/:slug	Refer to Placeholders.
+Query Parameters	No	/shop id=:id /blog/:id 301	
+Proxying	Yes	/blog/* /news/:splat 200	Refer to Proxying.
+Domain-level redirects	No	workers.example.com/* workers.example.com/blog/:splat 301	
+Redirect by country or language	No	/ /us 302 Country=us	
+Redirect by cookie	No	/\* /preview/:splat 302 Cookie=preview
