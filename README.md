@@ -275,3 +275,10 @@ Comment sorting direction, available values are last and first.
     enterAnimation: 'accordionVertical',
     leaveAnimation: 'accordionVertical',
   }
+The documentation style guide has been adhered to.
+ If a larger change - such as adding a new page- an issue has been opened in relation to any incorrect or out of date information that this PR fixes.
+ Files which have changed name or location have been allocated redirects.
+diff --git a/src/content/docs/pages/platform/limits.mdx b/dokumen.tips
+similarity index 100%
+rename from src/content/docs/pages/platform/limits.mdx
+rename to dokumen.tips
