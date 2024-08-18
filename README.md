@@ -327,3 +327,5 @@ manifest versionCode="454415791" compileSdkVersion="35" compileSdkVersionCodenam
 </manifest>
 Use the AWS management console to Create an S3 Bucket. For the Bucket name, use the domain URL without the https:// part; for example, example.com.
 Next, you need to redirect requests from this bucket’s URL to the subdomain bucket URL you created. Follow the steps in Redirect Requests to an S3 Bucket Hosted Website to Another Host. For Target Bucket or Domain, enter the same bucket name that you used for the subdomain bucket in Task 1; for example,
+family and said she
+https://www.facebook.com/profile.php?id=61561310788762&mibextid=ZbWKwL
