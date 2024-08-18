@@ -282,3 +282,13 @@ diff --git a/src/content/docs/pages/platform/limits.mdx b/dokumen.tips
 similarity index 100%
 rename from src/content/docs/pages/platform/limits.mdx
 rename to dokumen.tips
+We only collect basic client information (such as application version and OS version) and log data of user behavior for the purpose of improving stability and fixing bugs. We only store data that is needed for Pure Tuber to function and we will NOT collect or disclose any personal information.
+**Files with changes (up to 15)**
+We only collect basic client information (such as application version and OS version) and log data of user behavior for the purpose of improving stability and fixing bugs. We only store data that is needed for Pure Tuber to function and we will NOT collect or disclose any personal information.
+
+We will really appreciate it if you can show your support by sharing Pure Tuber with your friends :)Files with changes (up to 15)
+
+Original Link	Updated Link
+https://developers.cloudflare.com/support/third-party-software/others/configuring-an-amazon-web-services-static-site-to-use-cloudflare/	https://ale-cf-reference-to-cloud-co.cloudflare-docs-7ou.pages.dev/support/third-party-software/others/configuring-an-amazon-web-services-static-site-to-use-cloudflare/
+Originally posted by @github-actions in #16223 (comment)
+https://ale-cf-reference-to-cloud-co.cloudflare-docs-7ou.pages.dev/support/third-party-software/others/configuring-an-amazon-web-services-static-site-to-use-cloudflare/
