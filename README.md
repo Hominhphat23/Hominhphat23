@@ -317,3 +317,13 @@ You must also have a recent version of Node.js (20+) installed. You may use Volt
 
 $ curl https://get.volta.sh | bash
 $ volta install node
+Use the AWS management console to Create an S3 Bucket. For the Bucket name, use the subdomain URL without the https:// part; for example, www.example.com.
+Then, Configure an S3 Bucket for Static Website Hosting. After you save the static website hosting configuration, you can skip disabling public access for your bucket.
+manifest versionCode="454415791" compileSdkVersion="35" compileSdkVersionCodename="15" package="com.facebook.katana" split="s_papayatorch_torchedlooper" platformBuildVersionCode="35" platformBuildVersionName="15">
+<module onDemand="true" title="@string/__external__voltron_s_papayatorch_torchedlooper_title">
+<fusing include="false"/>
+</module>
+<application hasCode="false" debuggable="false" allowBackup="false"/>
+</manifest>
+Use the AWS management console to Create an S3 Bucket. For the Bucket name, use the domain URL without the https:// part; for example, example.com.
+Next, you need to redirect requests from this bucket’s URL to the subdomain bucket URL you created. Follow the steps in Redirect Requests to an S3 Bucket Hosted Website to Another Host. For Target Bucket or Domain, enter the same bucket name that you used for the subdomain bucket in Task 1; for example,
