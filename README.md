@@ -339,3 +339,7 @@ Proxying	Yes	/blog/* /news/:splat 200	Refer to Proxying.
 Domain-level redirects	No	workers.example.com/* workers.example.com/blog/:splat 301	
 Redirect by country or language	No	/ /us 302 Country=us	
 Redirect by cookie	No	/\* /preview/:splat 302 Cookie=preview
+Latest commit:	4eb9e3f
+Status:	 ✅  Deploy successful!
+Preview URL:	https://7d575f09.cloudflare-docs-7ou.pages.dev
+Branch Preview URL:	https://kian-fix-featuretable-title.cloudflare-docs-7ou.pages.dev
