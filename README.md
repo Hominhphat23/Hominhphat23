@@ -343,3 +343,10 @@ Latest commit:	4eb9e3f
 Status:	 ✅  Deploy successful!
 Preview URL:	https://7d575f09.cloudflare-docs-7ou.pages.dev
 Branch Preview URL:	https://kian-fix-featuretable-title.cloudflare-docs-7ou.pages.dev
+
+#### Example: houly mitigation requests by product
+#### Example: Hourly mitigation requests by product
+Latest commit:	4eb9e3f
+Status:	 ✅  Deploy successful!
+Preview URL:	https://7d575f09.cloudflare-docs-7ou.pages.dev
+Branch Preview URL:	https://kian-fix-featuretable-title.cloudflare-docs-7ou.pages.dev
