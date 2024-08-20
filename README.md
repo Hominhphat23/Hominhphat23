@@ -348,3 +348,12 @@ Contractors Showdown is a tense battle royale that will have you holding your br
 If you play and enjoy either Asgard’s Wrath 2 or Contractors Showdown, you should receive an email with an exclusive 20% off code that will let you pick up a permanent copy of the game at a discount. These codes are valid for up to five days after the Free Weekend ends (or in other words, through August 24, 2024 at 1AM local time).
 
 You can pre-download Asgard’s Wrath 2 and Contractors Showdown now so that you’re ready to go on Friday when access unlocks. Don’t forget to share the event with your friends in VR or through the mobile app so you can all set a time to hop in and play together—and remember, this Free Weekend runs through Monday, August 19 at 1AM!
+Original Link	Updated Link
+https://developers.cloudflare.com/magic-wan/configuration/manually/third-party/viptela/	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages.dev/magic-wan/configuration/manually/third-party/viptela/
+Latest commit:	a91d558
+Status:	 ✅  Deploy successful!
+Preview URL:	https://cac29bef.cloudflare-docs-7ou.pages.dev
+Branch Preview URL:	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages.devLatest commit:	a91d558
+Status:	 ✅  Deploy successful!
+Preview URL:	https://cac29bef.cloudflare-docs-7ou.pages.dev
+Branch Preview URL:	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages.dev
