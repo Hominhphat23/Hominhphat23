@@ -343,3 +343,8 @@ Latest commit:	4eb9e3f
 Status:	 ✅  Deploy successful!
 Preview URL:	https://7d575f09.cloudflare-docs-7ou.pages.dev
 Branch Preview URL:	https://kian-fix-featuretable-title.cloudflare-docs-7ou.pages.dev
+Contractors Showdown is a tense battle royale that will have you holding your breath during firefights. Players drop into a vast map that measures over 16 square kilometers, then scramble to become the last team standing. Use hills and buildings to get the drop on enemies, or rely on a quick trigger finger, steady aim, and a smart loadout to keep you safe. With 60 players per match, Contractors Showdown is like nothing else you’ve played in VR.
+
+If you play and enjoy either Asgard’s Wrath 2 or Contractors Showdown, you should receive an email with an exclusive 20% off code that will let you pick up a permanent copy of the game at a discount. These codes are valid for up to five days after the Free Weekend ends (or in other words, through August 24, 2024 at 1AM local time).
+
+You can pre-download Asgard’s Wrath 2 and Contractors Showdown now so that you’re ready to go on Friday when access unlocks. Don’t forget to share the event with your friends in VR or through the mobile app so you can all set a time to hop in and play together—and remember, this Free Weekend runs through Monday, August 19 at 1AM!
