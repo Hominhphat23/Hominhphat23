@@ -357,3 +357,13 @@ Branch Preview URL:	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages
 Status:	 ✅  Deploy successful!
 Preview URL:	https://cac29bef.cloudflare-docs-7ou.pages.dev
 Branch Preview URL:	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages.dev
+@@ -20,37 +19,37 @@ This version passes through requests for `/test/*` and `/control/*` URI paths to
+ const NAME = "myExampleABTest";
+ 
+ export default {
+-  async fetch(request) {
+-    // Clone the original URL
+-    const url = new URL(request.url);
++	async fetch(request) {
+Hominhphat23
+Original Link 
