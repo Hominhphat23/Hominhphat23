@@ -1,4 +1,4 @@
-
+Hominhphat23
 A- 👋 Hi, I’m @Hominhphat23
 B- 🌱 I’m currently learning ...
 BB- 💞️ I’m looking to collaborate on ...
@@ -357,3 +357,40 @@ Branch Preview URL:	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages
 Status:	 ✅  Deploy successful!
 Preview URL:	https://cac29bef.cloudflare-docs-7ou.pages.dev
 Branch Preview URL:	https://marcio-pcx11159-mwan-cisco.cloudflare-docs-7ou.pages.dev
+CHANGES
+
+DETAILS
+
+109 -3. Expand **cloudflare\_data** and click **cf\_analytics
+
+\_logs**.
+
+106 +3. Expand **cloudflare_data** and click **
+
+cf_analytics_logs**.
+
+107
+
+108 4. Select the **Schema** tab.
+
+109 @@ -132,19 +129,19 @@ The Cloudflare Insights Temp late features several dashboards, or report pages
+
+,t 129
+
+130 The following dashboards are included in the Insights te mplate:
+
+131
+
+135 -* **Snapshot**
+
+: Gives you an overview of the most important metrics fro m your Cloudflare logs, including total number of request s, top visitors by geography, IP, user agent, traffic typ e, total number of threats, and bandwidth usage.
+
+132 +-**Snapshot**
+
+: Gives you an overview of the most important metrics fro m your Cloudflare logs, including total number of request s, top visitors by geography, IP, user agent, traffic typ e, total number of threats, and bandwidth usage.
+
+133
+
+137 -* **Security**: Provides insights on threat identificat ion and mitigations by our **Web Application Firewall** including **Firewall Rules**, **Rate Limiting**, and ** IP Firewall**. Metrics include total threats stopped, thr eat traffic source, blocked IPs and user agents, top thre at requests, security events (SQL injections, XSS, etc.), and rate limiting. Use this data to fine tune the firewa 11 to target obvious threats and avoid false positives.
+
+134 +- **Security**: Provides insights on threat identificat ion and mitigations by our **Web Application Firewall** including **Firewall Rules**, **Rate Limiting**, and ** IP Firewall**. Metrics include total threats stopped, thr eat traffic source, blocked IPs and user agents, top thre
