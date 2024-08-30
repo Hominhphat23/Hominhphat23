@@ -21,3 +21,28 @@ You can click the Preview link to take a look at your changes.
 <tr><td><strong>Branch Preview URL:</strong></td><td
 e132cd6715f14dd6cf13631c060b3eb0b8f800ca
 cloudflare/cloudflare-docs] workers: fix typo (PR #16220)
+2024-08-18T12:27:54.3970920Z ##[debug]Evaluating Index:
+2024-08-18T12:27:54.3971244Z ##[debug]..Evaluating secrets:
+2024-08-18T12:27:54.3971584Z ##[debug]..=> Object
+2024-08-18T12:27:54.3971998Z ##[debug]..Evaluating String:
+2024-08-18T12:27:54.3972310Z ##[debug]..=> 'GH_IPR_TOKEN'
+2024-08-18T12:27:54.3972677Z ##[debug]=> null
+2024-08-18T12:27:54.3972935Z ##[debug]Result: null
+2024-08-18T12:27:54.3974401Z ##[debug]Evaluating: secrets.GOOGLE_API_KEY
+2024-08-18T12:27:54.3974800Z ##[debug]Evaluating Index:
+2024-08-18T12:27:54.3975106Z ##[debug]..Evaluating secrets:
+2024-08-18T12:27:54.3975411Z ##[debug]..=> Object
+2024-08-18T12:27:54.3975685Z ##[debug]..Evaluating String:
+2024-08-18T12:27:54.3975991Z ##[debug]..=> 'GOOGLE_API_KEY'
+2024-08-18T12:27:54.3976290Z ##[debug]=> null
+2024-08-18T12:27:54.3976533Z ##[debug]Result: null
+2024-08-18T12:27:54.3990057Z ##[debug]Evaluating condition for step: 'Run npm run ipr-check'
+2024-08-18T12:27:54.3991714Z ##[debug]Evaluating: success()
+2024-08-18T12:27:54.3992197Z ##[debug]Evaluating success:
+2024-08-18T12:27:54.3992652Z ##[debug]=> true
+2024-08-18T12:27:54.3993087Z ##[debug]Result: true
+2024-08-18T12:27:54.3993685Z ##[debug]Starting: Run npm run ipr-check
+2024-08-18T12:27:54.4007161Z ##[debug]Loading inputs
+2024-08-18T12:27:54.4007975Z ##[debug]Loading env
+2024-08-18T12:27:54.4046924Z ##[group]Run npm run ipr-check
+2024-08-18T12:27:54.4309369Z ##[endgroup]
