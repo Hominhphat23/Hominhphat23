@@ -388,4 +388,4 @@ cf_analytics_logs**.
 
 137 -* **Security**: Provides insights on threat identificat ion and mitigations by our **Web Application Firewall** including **Firewall Rules**, **Rate Limiting**, and ** IP Firewall**. Metrics include total threats stopped, thr eat traffic source, blocked IPs and user agents, top thre at requests, security events (SQL injections, XSS, etc.), and rate limiting. Use this data to fine tune the firewa 11 to target obvious threats and avoid false positives.
 
-134 +- **Security**: Provides insights on threat identificat ion and mitigations by our **Web Application Firewall** including **Firewall Rules**, **Rate Limiting**, and ** IP Firewall**. Metrics include total threats stopped, thr eat traffic source, blocked IPs and user agents, top thre
+134 +- **Security**: Provides insights on threat identificat ion and mitigations by our **Web Application Firewall** including **Firewall Rules**, **Rate Limiting**, and ** IP Firewall**. Metrics include total threats stopped, thr eat traffic source, blocked IPs and user agents, top .
