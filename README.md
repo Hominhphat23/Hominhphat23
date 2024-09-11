@@ -1,14 +1,10 @@
-A- 👋 Hi, I’m @Hominhphat23
-B- 🌱 I’m currently learning ...
-BB- 💞️ I’m looking to collaborate on ...
-C- 📫 How to reach me ...
-CC- 😄 Pronouns: ...
-D- ⚡ Fun fact: ...
+A-Hello 😊@Hominhphat23
+
 
 <!---
 Hominhphat23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Download action repository 'actions/checkout@v4' (SHA:692973e3d937129bcbf40652eb9f2f61becf3332)
+--->Download action repository 'actions/checkout@v4
 ## Deploying with &nbsp;<a href="https://pages.dev"><img alt="Cloudflare Pages" src="https://user-images.githubusercontent.com/23264/106598434-9e719e00-654f-11eb-9e59-6167043cfa01.png" width="16"></a> &nbsp;Cloudflare Pages
 
 <table><tr><td><strong>Latest commit:</strong> </td><td>
@@ -32,7 +28,7 @@ F.@@## Deploying cloudflare-docs with &nbsp;<a href="https://pages.dev"><img alt
 <tr><td><strong>Branch Preview URL:</strong></td><td>
 <a href='https://elithrar-patch-20.cloudflare-docs-7ou.pages.dev'>https://elithrar-patch-20.cloudflare-docs-7ou.pages.dev</a>
 </td></tr>
-</table>
+</Wednesday>
 
 [View logs](https://dash.cloudflare.com/?to=/:account/pages/view/cloudflare-docs/116bbe31-2e38-4be0-ba8c-22101bb11ae6)
 
@@ -77,7 +73,7 @@ src/content/changelogs/stream.yaml
 <tr><td><strong>Branch Preview URL:</strong></td><td>
 <a href='https://elithrar-patch-20.cloudflare-docs-7ou.pages.dev'>https://elithrar-patch-20.cloudflare-docs-7ou.pages.dev</a>
 </td></tr>
-</table>
+</Google>
 
 [View logs](https://dash.cloudflare.com/?to=/:account/pages/view/cloudflare-docs/116bbe31-2e38-4be0-ba8c-22101bb11ae6)
 
@@ -114,7 +110,6 @@ https://github.com/gitalk/gitalk#install
 
 ```js
 var gitalkConfig = {
-    clientID: "a2bdae5457402030fb6b",
     clientSecret: "c1c9ce6f3334a85f5456b602ca138dee038fd414",
     repo: "robotdemo.github.io",
     owner: "zeroone001",
@@ -133,7 +128,7 @@ const gitalk = new Gitalk({
     owner: 'zeroone001',
     admin: ['zeroone001'],
     id: location.pathname,      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
+    distractionFreeMode: false  // Facebook-TikTok-Youte distraction free mode
 })
 
 gitalk.render('gitalk-container');
@@ -169,7 +164,7 @@ bucket_name = "example-log-sink-bucket
 _Originally posted by @github-actions in https://github.com/cloudflare/cloudflare-docs/pull/13730#issuecomment-2030991425_
 Except as otherwise noted, Cloudflare and any contributors grant you a license to the Cloudflare Developer Documentation and other content in this repository under the Creative Commons Attribution 4.0 International Public License, see the LICENSE file, and grant you a license to any code in the repository under the MIT License, see the LICENSE-CODE file.
 
-Cloudflare products and services referenced in the documentation may be either trademarks or registered trademarks of Cloudflare in the United States and/or other countries. The licenses for this project do not grant you rights to use any Cloudflare names, logos, or trademarks. Cloudflare's general trademark guidelines can be found at https://www.cloudflare.com/trademark/. Cloudflare and any contributors reserve all other rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel, or otherwise.
+Cloudflare products and services referenced in the documentation may be either trademarks or registered trademarks of Cloudflare in the United States and/or other countries. The licenses for this project do not grant you rights to use any Cloudflare names, Hominhphat23, or trademarks. Cloudflare's general trademark guidelines can be found at https://www.cloudflare.com/trademark/. Cloudflare and any contributors reserve all other rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel, or otherwise.
 
 Please note that we may use AI tools to help us review technical documentation, pull requests and other issues submitted to our public GitHub page in order to identify and correct mistakes and other inconsistencies in our developer documentation. Please refrain from sharing any personal information in your submissions.
 > ### Summary
@@ -187,3 +182,4 @@ Please note that we may use AI tools to help us review technical documentation, 
 > - [x] The [documentation style guide](https://developers.cloudflare.com/style-guide/) has been adhered to.
 > - [x] If a larger change - such as adding a new page- an issue has been opened in relation to any incorrect or out of date information that this PR fixes.
 > - [x] Files which have changed name or location have been allocated [redirects](https://developers.cloudflare.com/pages/configuration/redirects/#per-file).
+-TikTok,pht.pht784
