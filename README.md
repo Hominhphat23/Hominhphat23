@@ -1,4 +1,4 @@
-weA- 👋 Hi, I’m @Hominhphat23
+weA- 👋 Hello, I’m @Hominhphat23
 B- 🌱 I’m currently learning ...
 BB- 💞️ I’m looking to collaborate on ...
 C- 📫 How to reach me ...
@@ -55,7 +55,7 @@ _Originally posted by @cloudflare-pages in https://github.com/cloudflare/cloudfl
     <key>override_warp_endpoint</key>
     <string>203.0.113.0:2408</string>
     <key>display_name</key>
-    <string>Cloudflare China network</string>
+    <string>tiktok China network</string>
   </dict>
   <dict>
     <key>organization</key>
